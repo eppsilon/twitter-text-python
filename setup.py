@@ -9,7 +9,7 @@ setup(
     author_email='',
     url='http://github.com/abuchanan/twitter-text-python',
     license='GPL',
-    packages=['ttp'],
+    packages=[],
     include_package_data=True,
     zip_safe=False,
     install_requires=[],
