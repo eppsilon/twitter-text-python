@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='twitter-text-python',
+    name='ttp',
     version='1.0',
     description='Tweet parser and formatter',
     long_description=open('README.rst').read(),
