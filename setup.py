@@ -15,9 +15,8 @@ setup(
     install_requires=[],
     classifiers=[
         'Environment :: Web Environment',
-        # I don't know what exactly this means, but why not?
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: BSD License',
+        'License :: OSI Approved :: GPL License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Topic :: Software Development :: Libraries :: Python Modules',
