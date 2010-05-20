@@ -4,7 +4,7 @@ setup(
     name='ttp',
     version='1.0',
     description='Tweet parser and formatter',
-    long_description=open('README.rst').read(),
+    long_description=open('readme.rst').read(),
     author='Ivo Wetzel',
     author_email='',
     url='http://github.com/abuchanan/twitter-text-python',
